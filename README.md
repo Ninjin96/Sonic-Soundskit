@@ -15,3 +15,6 @@ The functionality of this web page is pretty straightforward. You can click on o
 Try it out!
 
 Thanks again for checking out my project and take care!
+
+## Extra Information
+In this project I have used programming concepts like for loops and a switch case statement in a Web Development environment with JavaScript. Of course, this could've been written much simpler using a library like jQuery. But the aim of this project is to showcase the understanding of these programming concepts rather than to impress people with short and sweet code!
