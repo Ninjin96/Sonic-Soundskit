@@ -5,7 +5,8 @@ Hi there everyone and future me reading this! welcome to yet again a new fronten
 ## Preview:
 [![](https://i.ibb.co/ySfTNg4/sonic-soundskit-preview.png)](#)
 
-As usual for my frontend projects, they are hosted on GitHub: LINK HERE
+As usual for my frontend projects, they are hosted on GitHub: https://ninjin96.github.io/Sonic-Soundskit/.
+Alternatively, you can download the code and open the HTML file.
 
 ## What does it do?
 The functionality of this web page is pretty straightforward. You can click on one of the boxes displayed on the web page to hear a specific sound from the classic video game Sonic The Hedgehog. Additionally, you can hear the sounds by pressing on one of the keys on your keyboards that correspond with the letters displayed in the boxes.
